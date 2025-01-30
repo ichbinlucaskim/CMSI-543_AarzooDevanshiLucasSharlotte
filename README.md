@@ -1,2 +1,1 @@
-# CMSI-543_AarzooDevanshiLucasSharlotte
-CMSI-543 / SYEG-557
+# CMSI-543 / SYEG-557
