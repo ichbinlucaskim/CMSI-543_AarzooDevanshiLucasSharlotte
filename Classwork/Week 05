@@ -1,0 +1,9 @@
+Class Work for Week 5
+
+As a traveler, I want to get a notification if bad weather might delay my flight so that I can plan ahead.
+As a traveler, I want to see a weather forecast for my flight in the travel app so that I know if there might be delays.
+As a traveler, I want to get options for new flights if mine is delayed due to weather so that I can rebook quickly.
+
+The system sends a notification if bad weather could delay the flight.
+The notification arrives at least 2 hours before departure, if possible.
+The notification includes the flight number, delay time, and reason.
