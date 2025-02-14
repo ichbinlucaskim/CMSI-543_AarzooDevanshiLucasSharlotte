@@ -1,0 +1,31 @@
+
+Evaluation of Homework Assignment #1
+CMSI 543 / SYEG 557
+====================================
+
+Ch 2,  #1 ~ self-organization   :   1.0/1.0 point
+Ch 2,  #3 ~ frequent delivery   :   1.0/1.0 point
+Ch 2,  #6 ~ Agile manager       :   1.0/1.0 point
+Ch 2,  #9 ~ demonstrate trust   :   1.0/1.0 point
+Ch 2, #13 ~ change priorities   :   1.0/1.0 point
+Ch 2, #15 ~ bad example metrics :   1.0/1.0 point
+Ch 2, #19 ~ resign over Agile   :   1.0/1.0 point
+Ch 2, #20 ~ Agile transformation:   1.0/1.0 point
+Ch 3,  #1 ~ Extreme programming :   1.0/1.0 point
+Ch 3,  #3 ~ 5 FDD activites     :   1.0/1.0 point
+Ch 3,  #4 ~ 4 DSDM req't cat's  :   1.0/1.0 point
+Ch 3,  #5 ~ 7 lean principles   :   1.0/1.0 point
+Ch 3,  #7 ~ 4 Kanban principles :   1.0/1.0 point
+Ch 3,  #8 ~ 'crystal' name      :   1.0/1.0 point
+grammar/spelling/language use   :   1.0/1.0 point
+
+Total possible points: 15.0
+
+Your score: 15.0 out of 15.0 = 100.00% which is an A-plus
+
+Very nice work here!  Next time try to use a little more of your own wording
+which will help you *think* about the answers more and will help get your
+mind to remember.  There are lots of lists in this material and I know it is
+confusing...
+
+Nice work overall and good start to the semester!
